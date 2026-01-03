@@ -17,6 +17,6 @@ Les données utilisées sont issues de dossiers médicaux.
 Pour des raisons éthiques et de confidentialité, elles ne sont pas diffusées.
 
 ## Outils
-- R
-- Excel
+- R et Excel
+  
 
