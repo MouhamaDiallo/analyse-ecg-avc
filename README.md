@@ -9,7 +9,7 @@ Analyser les troubles électrocardiographiques (ECG) observés chez les patients
 afin de mieux comprendre les profils à risque.
 
 ## Contenu du dépôt
-- [Rapport d'analyse (PDF)](Analyse%20des%20troubles%20électrocardiographiques%20des%20patients%20d'AVC.pdf)
+- [Rapport d’analyse (PDF)](rapport_ecg_avc.pdf)
 - Résultats et interprétations statistiques
 
 ## Données
@@ -17,6 +17,5 @@ Les données utilisées sont issues de dossiers médicaux.
 Pour des raisons éthiques et de confidentialité, elles ne sont pas diffusées.
 
 ## Outils
-- R et Excel
-  
-
+- R
+- Excel
